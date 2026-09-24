@@ -1,21 +1,18 @@
 # 🔫 2D Shooter Game
 
 <p align="center">
-  <img src="Photos/Banner.png" alt="Project Banner" width="900">
+  <img src="./Assets/images/Cover-2DShooterGame.png" alt="Project Banner" width="900">
 </p>
 
 <p align="center">
-<a href="YOUR_RELEASE_URL">
+<a href="https://github.com/mskreallabs/Unity-2D-Shooter-Game/releases/latest">
 <img src="https://img.shields.io/badge/Download-Latest%20Release-36BCF7?style=for-the-badge" alt="Download">
 </a>
-<a href="YOUR_LICENSE_URL">
-<img src="https://img.shields.io/badge/License-MIT-green?style=for-the-badge" alt="License">
+<a href="https://github.com/mskreallabs/Unity-2D-Shooter-Game/blob/main/LICENSE">
+<img src="https://img.shields.io/badge/License-MIT-green?style=for-the-badge" alt="License">  
 </a>
-<a href="YOUR_GITHUB_URL">
+<a href="https://github.com/mskreallabs/Unity-2D-Shooter-Game">
 <img src="https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github" alt="GitHub">
-</a>
-<a href="YOUR_VIDEO_URL">
-<img src="https://img.shields.io/badge/Watch-Demo-red?style=for-the-badge" alt="Demo">
 </a>
 </p>
 
@@ -76,28 +73,21 @@ The following screenshots show the project in action. (Images will be added to t
 
 <div style="overflow-x:auto; white-space:nowrap;">
 
-<a href="Photos/Videos/Screenshot1.png">
-<img src="Photos/picture.png" alt="Screenshot 1" width="320">
+<a href="./Assets/images/2dShooterScreenShot0.png">
+<img src="./Assets/images/2dShooterScreenShot0.png" alt="Screenshot 1" width="320">
 </a>
 
-<a href="Photos/Videos/Screenshot2.png">
-<img src="Photos/picture2.png" alt="Screenshot 2" width="320">
+<a href="./Assets/images/2dShooterScreenShot1.png">
+<img src="./Assets/images/2dShooterScreenShot1.png" alt="Screenshot 2" width="320">
 </a>
 
-<a href="Photos/Videos/Screenshot2.png">
-<img src="Photos/Picture3.png" alt="Screenshot 2" width="320">
+<a href="./Assets/images/2dShooterScreenShot2.png">
+<img src="./Assets/images/2dShooterScreenShot2.png" alt="Screenshot 2" width="320">
 </a>
 </div>
 
 
-## ▶️ Watch The Project 🎬 Demo Video
-<p align="center">
-  <a href="YOUR_YOUTUBE_VIDEO_URL">
-    <img src="YOUR_VIDEO_THUMBNAIL_URL" alt="Watch Project Demo" width="800">
-  </a>
-</p>
 
-> Click the Video above to watch the full demonstration.
 
 ---
 
@@ -164,14 +154,14 @@ PROJECT
 
 Download the latest tested version from:
 
-**[⬇️ Download Latest Release](YOUR_RELEASE_URL)**
+**[⬇️ Download Latest Release](https://github.com/mskreallabs/Unity-2D-Shooter-Game/releases/latest)**
 
 ## Option 2 — Source Code
 
 Clone the repository:
 
 ```bash
-git clone YOUR_REPOSITORY_URL
+git clone https://github.com/mskreallabs/Unity-2D-Shooter-Game.git
 ```
 
 Then:
@@ -190,7 +180,7 @@ cd Unity-2D-Shooter-Game
 
 Download the latest release:
 
-**[Download Latest Release](YOUR_RELEASE_URL)**
+**[Download Latest Release](https://github.com/mskreallabs/Unity-2D-Shooter-Game/releases/latest)**
 
 ### Step 2 — Extract
 
@@ -232,7 +222,7 @@ Platform: Windows / WebGL
 Clone the repository:
 
 ```bash
-git clone YOUR_REPOSITORY_URL
+git clone https://github.com/mskreallabs/Unity-2D-Shooter-Game.git
 ```
 
 Open **Unity Hub**.
@@ -297,7 +287,7 @@ The project has been tested on:
 
 If you find a bug, please create a GitHub Issue.
 
-**[🐛 Report a Bug](YOUR_ISSUES_URL)**
+**[🐛 Report a Bug](https://github.com/mskreallabs/Unity-2D-Shooter-Game/issues/new?labels=bug)**
 
 ---
 
@@ -372,15 +362,15 @@ Contributions are welcome. Please open an issue or submit a pull request!
 
 Found a bug?
 
-**[🐛 Open an Issue](YOUR_ISSUES_URL)**
+**[🐛 Open an Issue](https://github.com/mskreallabs/Unity-2D-Shooter-Game/issues/new)**
 
 Have an idea?
 
-**[💡 Request a Feature](YOUR_FEATURE_REQUEST_URL)**
+**[💡 Request a Feature](https://github.com/mskreallabs/Unity-2D-Shooter-Game/issues/new?labels=enhancement)**
 
 Want to discuss the project?
 
-**[💬 Start a Discussion](YOUR_DISCUSSIONS_URL)**
+**[💬 Start a Discussion](https://github.com/mskreallabs/Unity-2D-Shooter-Game/discussions)**
 
 ---
 
@@ -401,7 +391,7 @@ Want to discuss the project?
 # 👨‍💻 Developer
 
 <p align="center">
-<img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhkNREU1xVwXxXsDGLI3fJLlpaqfO9Qt3E7jX_MTPziu8KIDi-G744D1BUbffG-mHtws9HFsnax8zIyXzlF2Qsm8BV_6voGZsRptFIU3Hu-FovTljLZM7Tb1bWujbGfsq-iPePFY-9acyx4jsC_24OjLu9qJ3y7RcyYxQ0kCuc2HjldUHivj61ndfVx1K7o/s320/logo%20new%203.png" width="120" alt="MSK Real Labs">
+<img src="./Assets/images/Logo-WithoutBackground.png" width="120" alt="MSK Real Labs">
 
 </p>
 
