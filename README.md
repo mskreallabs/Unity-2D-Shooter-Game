@@ -1,7 +1,7 @@
 # 🔫 2D Shooter Game
 
 <p align="center">
-  <img src="Assets/images/Cover-2DShooterGame.png" alt="Project Banner" width="900">
+  <img src="Assets/Images/Cover-2DShooterGame.png" alt="Project Banner" width="900">
 </p>
 
 <p align="center">
@@ -73,16 +73,16 @@ The following screenshots show the project in action. (Images will be added to t
 
 <div style="overflow-x:auto; white-space:nowrap;">
 
-<a href="Assets/images/2dShooterScreenShot0.png">
-<img src="Assets/images/2dShooterScreenShot0.png" alt="Screenshot 1" width="320">
+<a href="Assets/Images/2dShooterScreenShot0.png">
+<img src="Assets/Images/2dShooterScreenShot0.png" alt="Screenshot 1" width="320">
 </a>
 
-<a href="Assets/images/2dShooterScreenShot1.png">
-<img src="Assets/images/2dShooterScreenShot1.png" alt="Screenshot 2" width="320">
+<a href="Assets/Images/2dShooterScreenShot1.png">
+<img src="Assets/Images/2dShooterScreenShot1.png" alt="Screenshot 2" width="320">
 </a>
 
-<a href="Assets/images/2dShooterScreenShot2.png">
-<img src="Assets/images/2dShooterScreenShot2.png" alt="Screenshot 2" width="320">
+<a href="Assets/Images/2dShooterScreenShot2.png">
+<img src="Assets/Images/2dShooterScreenShot2.png" alt="Screenshot 2" width="320">
 </a>
 </div>
 
@@ -391,7 +391,7 @@ Want to discuss the project?
 # 👨‍💻 Developer
 
 <p align="center">
-<img src="Assets/images/Logo-WithoutBackground.png" width="120" alt="MSK Real Labs">
+<img src="Assets/Images/Logo-WithoutBackground.png" width="120" alt="MSK Real Labs">
 
 </p>
 
