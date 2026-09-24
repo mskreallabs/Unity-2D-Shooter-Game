@@ -73,16 +73,16 @@ The following screenshots show the project in action. (Images will be added to t
 
 <div style="overflow-x:auto; white-space:nowrap;">
 
-<a href="Assets/Images/2dShooterScreenShot0.png">
-<img src="Assets/Images/2dShooterScreenShot0.png" alt="Screenshot 1" width="320">
+<a href="Assets/Images/2DShooterScreenShot0.png">
+<img src="Assets/Images/2DShooterScreenShot0.png" alt="Screenshot 1" width="320">
 </a>
 
-<a href="Assets/Images/2dShooterScreenShot1.png">
-<img src="Assets/Images/2dShooterScreenShot1.png" alt="Screenshot 2" width="320">
+<a href="Assets/Images/2DShooterScreenShot1.png">
+<img src="Assets/Images/2DShooterScreenShot1.png" alt="Screenshot 2" width="320">
 </a>
 
-<a href="Assets/Images/2dShooterScreenShot2.png">
-<img src="Assets/Images/2dShooterScreenShot2.png" alt="Screenshot 2" width="320">
+<a href="Assets/Images/2DShooterScreenShot2.png">
+<img src="Assets/Images/2DShooterScreenShot2.png" alt="Screenshot 2" width="320">
 </a>
 </div>
 
